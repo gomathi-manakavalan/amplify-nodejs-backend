@@ -4,6 +4,8 @@ API (REST)
 NodeJS API
 In this guide, you will learn how to deploy a Node.js API.
 
+https://docs.amplify.aws/guides/api-rest/node-api/q/platform/js/
+
 1. Initialize a new Amplify project
 amplify init
 
